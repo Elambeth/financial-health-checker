@@ -1,70 +1,51 @@
-# Getting Started with Create React App
+# Financial Health Checker
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Part of the NFP Toolkit Suite
 
-## Available Scripts
+The Financial Health Checker is a powerful tool designed to help Not-for-Profits in New Zealand assess and improve their financial wellbeing. As part of the NFP Toolkit suite, it provides valuable insights and recommendations tailored to the unique needs of Kiwi not-for-profit organizations.
 
-In the project directory, you can run:
+## 🚀 Features
 
-### `npm start`
+- **Financial Health Assessment**: Get a comprehensive overview of your organization's financial status.
+- **Key Metric Analysis**: Evaluate important financial ratios and benchmarks specific to the not-for-profit sector.
+- **Custom Recommendations**: Receive tailored advice based on your organization's specific financial situation.
+- **Trend Tracking**: Monitor your financial health over time with easy-to-understand visualizations.
+- **Comparison Tools**: See how your financial health stacks up against similar organizations in the sector.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 🎯 Why Use the Financial Health Checker?
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- Gain clear insights into your organization's financial strengths and weaknesses
+- Identify potential financial risks before they become critical issues
+- Make data-driven decisions to improve your financial sustainability
+- Demonstrate financial accountability to your board, donors, and stakeholders
+- Plan for long-term financial stability and growth
 
-### `npm test`
+## 🚀 Getting Started
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+1. Log in to your NFP Toolkit account at [nfptoolkit.org](https://nfptoolkit.org)
+2. Navigate to the Financial Health Checker tool
+3. Input your organization's financial data (you may need your latest financial statements handy)
+4. Review your personalized financial health report
 
-### `npm run build`
+## 💡 How to Use
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+1. **Data Input**: Enter your financial information accurately. The tool will guide you through the process step-by-step.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+2. **Report Generation**: Once your data is entered, the tool will generate a comprehensive financial health report.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+3. **Review Insights**: Carefully read through the analysis and recommendations provided.
 
-### `npm run eject`
+4. **Action Planning**: Use the insights to create an action plan for improving your financial health.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+5. **Regular Check-ups**: Re-run the assessment periodically (e.g., quarterly or bi-annually) to track your progress.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 📊 Interpreting Your Results
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Your financial health report will include:
+- An overall financial health score
+- Breakdown of key financial ratios
+- Comparison to sector benchmarks
+- Trend analysis (if you've used the tool multiple times)
+- Specific recommendations for improvement
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Remember, this tool is designed to provide guidance, but it's always advisable to consult with a financial professional for personalized advice.
